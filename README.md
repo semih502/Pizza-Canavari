@@ -34,4 +34,5 @@ Sudenur Şen: https://github.com/sdnrsnn
 Special thanks to Ayşe Kiraz for creating the background art for our main menu.
 
 Ayşe Kiraz: https://github.com/Ayse-krz
+
 itchio= https://erenkonurr.itch.io/pizza-canavar
